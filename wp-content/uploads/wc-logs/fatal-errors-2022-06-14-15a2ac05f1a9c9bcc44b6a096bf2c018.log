@@ -1,0 +1,52 @@
+2022-06-14T09:59:41+00:00 CRITICAL Uncaught WC_Stripe_Exception: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => A valid URL was not provided.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+ in D:\OpenServer\domains\anime-store-tengu.com\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-api.php:150
+Stack trace:
+#0 D:\OpenServer\domains\anime-store-tengu.com\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-customer.php(410): WC_Stripe_API::request()
+#1 D:\OpenServer\domains\anime-store-tengu.com\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-payment-tokens.php(152): WC_Stripe_Customer->get_sources()
+#2 D:\OpenServer\domains\anime-store-tengu.com\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-payment-tokens.php(130): WC_Stripe_Payment_Tokens->woocommerce_get_customer_payment_ in D:\OpenServer\domains\anime-store-tengu.com\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-api.php on line 150
+
+2022-06-14T10:00:59+00:00 CRITICAL Uncaught WC_Stripe_Exception: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Operation timed out after 10008 milliseconds with 0 out of 0 bytes received
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+ in D:\OpenServer\domains\anime-store-tengu.com\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-api.php:150
+Stack trace:
+#0 D:\OpenServer\domains\anime-store-tengu.com\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-customer.php(410): WC_Stripe_API::request()
+#1 D:\OpenServer\domains\anime-store-tengu.com\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-payment-tokens.php(152): WC_Stripe_Customer->get_sources()
+#2 D:\OpenServer\domains\anime-store-tengu.com\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-payment-tokens.php(130) in D:\OpenServer\domains\anime-store-tengu.com\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-api.php on line 150
+

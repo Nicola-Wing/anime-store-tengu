@@ -1,0 +1,44 @@
+﻿term_id,name,slug,description,display_type,parent,thumbnail
+15,Uncategorized,uncategorized,,default,0,
+16,Clothing,clothing,,default,0,
+17,Cosplay,cosplay,,default,16,http://tengu.anime-shop.com/wp-content/uploads/2022/04/cosplay.png
+18,Shoppers,shoppers,,default,16,http://tengu.anime-shop.com/wp-content/uploads/2022/04/shoppers.png
+19,Wings,wings,,default,16,http://tengu.anime-shop.com/wp-content/uploads/2022/04/025.png
+20,Kigurumi,kigurumi,,default,16,http://tengu.anime-shop.com/wp-content/uploads/2022/04/pngwing.com_.png
+58,"Paper products",paper-products,,products,0,
+59,Manga,manga,,default,58,http://tengu.anime-shop.com/wp-content/uploads/2022/04/hanako-duch-ze-szkolnej-toalety-tom-2-b-iext104744226.jpg
+60,Manhwa,manhwa,,products,58,http://tengu.anime-shop.com/wp-content/uploads/2022/04/2a4187f0af38ddcafc1ccc44b19bccc31.webp
+61,Comics,comics,,products,58,http://tengu.anime-shop.com/wp-content/uploads/2022/04/22424644o.jpg
+62,Ranobe,ranobe,,products,58,
+63,Artbooks,artbooks,,default,58,http://tengu.anime-shop.com/wp-content/uploads/2022/04/1.00x-thumb.png
+64,Sketchbooks,sketchbooks,,default,58,http://tengu.anime-shop.com/wp-content/uploads/2022/04/mgps-51m-sketch_1.jpg
+66,"Food and drinks",food-and-drinks,,default,0,
+67,"Japanese sweets",japanese-sweets,,products,66,http://tengu.anime-shop.com/wp-content/uploads/2022/04/big_NY_1-scaled-1.jpg
+68,"Japanese chocolate",japanese-chocolate,,products,66,http://tengu.anime-shop.com/wp-content/uploads/2022/04/10000587.jpg
+70,Pocky,pocky,,default,66,http://tengu.anime-shop.com/wp-content/uploads/2022/04/pol_pl_Paluszki-Pocky-Truskawkowe-45g-Glico-904_2.png
+71,Drinks,drinks,,products,66,http://tengu.anime-shop.com/wp-content/uploads/2022/04/8931.970x0.jpg
+72,Mochi/Daifuku,mochi-daifuku,,products,66,http://tengu.anime-shop.com/wp-content/uploads/2022/04/HTB1kH0_GVXXXXbuXXXXq6xXFXXXj.jpg
+73,Pillows,pillows,,default,0,
+74,Dakimakura,dakimakura,,default,73,http://tengu.anime-shop.com/wp-content/uploads/2022/04/3343140173_150h50-sm-1100.webp
+75,45х45,45х45,,products,73,http://tengu.anime-shop.com/wp-content/uploads/2022/04/b551e73069c658a2386ff69dc4bf43fb856b7a89_original.jpeg
+76,45х60,45х60,,products,73,http://tengu.anime-shop.com/wp-content/uploads/2022/04/218008245.jpg
+77,Posters,posters,,default,58,http://tengu.anime-shop.com/wp-content/uploads/2022/04/plakaty-po-anime-attack-on-titan.jpg
+78,Accessories,accessories,,default,0,
+79,Rings,rings,,default,78,http://tengu.anime-shop.com/wp-content/uploads/2022/04/HTB1HIdOPVXXXXbbXpXXq6xXFXXXy.jpg
+80,Pendants,pendants,,products,78,http://tengu.anime-shop.com/wp-content/uploads/2022/04/6096564209.jpg
+81,Headphones,headphones,,products,78,http://tengu.anime-shop.com/wp-content/uploads/2022/04/1493005159_w640_h640_black_1.webp
+82,Gloves,gloves,,products,78,http://tengu.anime-shop.com/wp-content/uploads/2022/04/b1e5bb8f7c6a8e30f5c62b3196cd26038e45cc98_original.jpeg
+83,Bracelets,bracelets,,products,78,http://tengu.anime-shop.com/wp-content/uploads/2022/04/1765474707_w640_h640_anime-braslet-ataka-e1650033638277.webp
+84,Keychains,keychains,,products,78,http://tengu.anime-shop.com/wp-content/uploads/2022/04/Hc805131012e14e60a5e4d8938f689fa6P.jpg
+85,Earrings,earrings,,products,78,http://tengu.anime-shop.com/wp-content/uploads/2022/04/d125a126-a8c1-11eb-81dd-7824af9c394c_3495c6d6-b7ac-11eb-81df-7824af9c394c.png
+86,Notebook,notebook,,products,58,http://tengu.anime-shop.com/wp-content/uploads/2022/04/1642030763_1-abrakadabra-fun-p-tetradki-s-anime-1.jpg
+87,Figurines,figurines,,default,0,
+88,"Original Japanese figurines",original-japanese-figurines,,products,87,http://tengu.anime-shop.com/wp-content/uploads/2022/04/H95d047efdede4c268489e02b6b6a6f9eE.jpg
+89,Acrylic,acrylic,,products,87,http://tengu.anime-shop.com/wp-content/uploads/2022/04/165170642_w640_h640_akrilovye-statuetki-po.webp
+90,"Ball dolls",ball-dolls,,products,87,http://tengu.anime-shop.com/wp-content/uploads/2022/04/51vP-tKYmhL._AC_SY580_.jpg
+91,"Stuffed Toys",stuffed-toys,,products,73,
+92,"House and life",house-and-life,,default,0,
+93,Cups,cups,,products,92,http://tengu.anime-shop.com/wp-content/uploads/2022/04/product_55472_0_0_0.jpg
+94,"Pencil case",pencil-case,,products,92,http://tengu.anime-shop.com/wp-content/uploads/2022/04/1f1c35b9defdc3251e0a183d3dbe22ef.jpg
+95,Lamps,lamps,,products,92,http://tengu.anime-shop.com/wp-content/uploads/2022/04/7859_0.jpg
+96,Pens,pens,,products,92,http://tengu.anime-shop.com/wp-content/uploads/2022/04/b80b58e7a7f904d74b30739e479ac629ccc66201_original.jpeg

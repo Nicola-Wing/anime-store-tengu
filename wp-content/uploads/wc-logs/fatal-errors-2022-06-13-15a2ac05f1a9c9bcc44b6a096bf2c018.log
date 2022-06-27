@@ -1,0 +1,4 @@
+2022-06-13T14:22:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\OpenServer\domains\anime-store-tengu.com\wp-content\plugins\woocommerce\src\Admin\API\Reports\Import\Controller.php on line 10
+
+2022-06-13T14:23:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\OpenServer\domains\anime-store-tengu.com\wp-content\plugins\woocommerce\src\Admin\API\Reports\Import\Controller.php on line 10
+

@@ -1,0 +1,18 @@
+.pp-capability-roles-wrapper table th.column-capabilities,
+.pp-capability-roles-wrapper table th.column-editor_features,
+.pp-capability-roles-wrapper table th.column-admin_features,
+.pp-capability-roles-wrapper table th.column-admin_menus,
+.pp-capability-roles-wrapper table th.column-nav_menus,
+
+.pp-capability-roles-wrapper table td.column-capabilities,
+.pp-capability-roles-wrapper table td.column-editor_features,
+.pp-capability-roles-wrapper table td.column-admin_features,
+.pp-capability-roles-wrapper table td.column-admin_menus,
+.pp-capability-roles-wrapper table td.column-nav_menus {
+    text-align: left;
+}
+
+
+span.pp-caps-action-note {
+    color: #444;
+}

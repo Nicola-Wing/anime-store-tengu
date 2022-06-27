@@ -1,0 +1,88 @@
+2022-06-05T08:12:30+00:00 ERROR Error getting data feed
+2022-06-05T08:12:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-06-05T08:12:30+00:00 ERROR Error getting data feed
+2022-06-05T08:12:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-06-05T17:46:48+00:00 ERROR Error getting data feed
+2022-06-05T17:46:49+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Connection timed out after 5004 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-06-05T17:46:54+00:00 ERROR Error getting data feed
+2022-06-05T17:46:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Operation timed out after 5013 milliseconds with 0 bytes received
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
